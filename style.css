@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+.main {
+    background-image: url('/uploads/2023/11/сyberpunk_1.webp');
+    padding-top: 100px;
+    color: rgb(247, 243, 12);
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
